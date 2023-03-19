@@ -13,7 +13,7 @@
     <pre><code>git clone https://github.com/burakzdgn/Hospital-Appointment-System.git</code></pre>
     <li>Open the project folder in your preferred code editor.</li>
     <li>Import the database schema located in the <code>db</code> folder into your MySQL server.</li>
-    <li>Open the <code>config.php</code> file located in the <code>includes</code> folder and update the database connection details to match your local MySQL server settings.</li>
+    <li>Open the <code>sys.php</code> file located in the <code>includes</code> folder and update the database connection details to match your local MySQL server settings.</li>
     <li>Start a local PHP server using the following command:</li>
     <pre><code>php -S localhost:8000</code></pre>
     <li>Open a web browser and navigate to <code>http://localhost:8000</code> to view the application.</li>
