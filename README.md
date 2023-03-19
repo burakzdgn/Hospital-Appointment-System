@@ -26,7 +26,6 @@
     <li>Select a service and view the doctors available for that service.</li>
     <li>Select a doctor and view their available appointment slots.</li>
     <li>Book an appointment slot for your desired date and time.</li>
-    <li>Receive a confirmation of your appointment via email.</li>
   </ol>
   <h2>Contributing</h2>
   <p>We welcome contributions to the Hospital Appointment System project! If you'd like to contribute, please follow these steps:</p>
